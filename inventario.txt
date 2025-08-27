@@ -1,0 +1,8 @@
+[
+  {
+    "id": "2025",
+    "nombre": "Jabón de Manos",
+    "cantidad": 30,
+    "precio": 2.4
+  }
+]
