@@ -1,0 +1,12 @@
+{
+  "libros": {
+    "400": {
+      "titulo": "programación",
+      "autor": "Fernando",
+      "categoria": "aprendizaje",
+      "isbn": "400"
+    }
+  },
+  "usuarios": {},
+  "prestamos": {}
+}
